@@ -1,0 +1,15 @@
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\bin\Debug\net6.0\BCoreProgram2.exe
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\bin\Debug\net6.0\BCoreProgram2.deps.json
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\bin\Debug\net6.0\BCoreProgram2.runtimeconfig.json
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\bin\Debug\net6.0\BCoreProgram2.dll
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\bin\Debug\net6.0\BCoreProgram2.pdb
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\BCoreProgram2.csproj.AssemblyReference.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\BCoreProgram2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\BCoreProgram2.AssemblyInfoInputs.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\BCoreProgram2.AssemblyInfo.cs
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\BCoreProgram2.csproj.CoreCompileInputs.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\BCoreProgram2.dll
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\refint\BCoreProgram2.dll
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\BCoreProgram2.pdb
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\BCoreProgram2.genruntimeconfig.cache
+C:\Users\vinay\Documents\B-Practice\Bridge-BasicProgram2\BCoreProgram2\obj\Debug\net6.0\ref\BCoreProgram2.dll
