@@ -23,6 +23,11 @@
                     SwapNumbers swap = new SwapNumbers();
                     swap.SNumbers();
                     break;
+
+                case 3:
+                    EvenOdd eo = new EvenOdd();
+                    eo.EvenOrOdd();
+                    break;
             }
         }
     }
